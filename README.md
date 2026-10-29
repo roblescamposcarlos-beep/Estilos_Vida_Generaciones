@@ -14,6 +14,7 @@
 | Lugar | Mazatlán, Sinaloa |
 
 **Página publicada:** https://roblescamposcarlos-beep.github.io/Estilos_Vida_Generaciones/
+**Código de la página:** [`index.html`](index.html) (en la raíz para que GitHub Pages la publique) · **Escenario de Make:** [`codigo/blueprint.json`](codigo/blueprint.json)
 
 ## 1. Objetivo
 Distinguir los estilos de vida y de consumo de tres generaciones de mi entorno, construir sin programar una página web conectada a Make e IA para compararlas y formular conclusiones propias sobre su sustentabilidad.
@@ -26,7 +27,7 @@ Flujo: **Página web → Make (Webhook → Make AI Agent → Webhook Response) �
 3. El Make AI Agent (conexión Make's AI Provider, sin Knowledge) compara las respuestas con las instrucciones de la práctica y usa solo lo que dicen las entrevistas.
 4. Webhook Response devuelve el análisis en texto plano (estado 200, `Content-Type: text/plain; charset=utf-8`, `Access-Control-Allow-Origin: *`) y la página lo muestra.
 
-Consumo: cada análisis gastó aproximadamente **3.6 créditos** (3 operaciones, unos 7 segundos).
+Consumo: en el historial del escenario, cada análisis gastó entre **3.56 y 3.63 créditos** (≈ 3.6), con 3 operaciones y entre 7 y 9 segundos de duración.
 
 ## 3. Entrevistas
 Se hicieron las mismas 8 preguntas a tres personas. Solo se registró la edad, no el nombre. El abuelo y el padre respondieron pensando en cuando tenían entre 18 y 25 años; el amigo, sobre su vida actual.
