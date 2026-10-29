@@ -29,6 +29,12 @@ Flujo: **Página web → Make (Webhook → Make AI Agent → Webhook Response) �
 
 Consumo: en el historial del escenario, cada análisis gastó entre **3.56 y 3.63 créditos** (≈ 3.6), con 3 operaciones y entre 7 y 9 segundos de duración.
 
+![Escenario Generaciones_RobertoRobles en Make: webhook, Make AI Agent y webhook response](imagenes/escenario_completo.png)
+
+![Página publicada con las respuestas de las tres entrevistas (parte 1)](imagenes/pagina_entrevistas_1.png)
+
+![Página publicada: respuestas restantes, botón Comparar respuestas y análisis de la IA](imagenes/pagina_entrevistas_2_analisis.png)
+
 ## 3. Entrevistas
 Se hicieron las mismas 8 preguntas a tres personas. Solo se registró la edad, no el nombre. El abuelo y el padre respondieron pensando en cuando tenían entre 18 y 25 años; el amigo, sobre su vida actual.
 
