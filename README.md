@@ -93,6 +93,12 @@ CONCLUSIONES
 - No señaló que quemar la basura es una práctica contaminante, ni el cambio de conciencia del padre sobre el agua ("porque es importante"), ni que lo más preocupante es que el amigo/a no cuida el agua.
 - Con respuestas tan cortas, la IA solo pudo describir; no pudo explicar las causas, que dependen de contexto que los entrevistados no dieron.
 
+## Video de la prueba en vivo
+
+[Ver la prueba en YouTube](https://youtu.be/jnx45mZske4)
+
+El enlace también está en [`video/enlace.txt`](video/enlace.txt).
+
 ## 6. Preguntas de reflexión
 
 **1. ¿Qué generación tiene el estilo de vida más sustentable según sus respuestas? ¿Fue por convicción o por necesidad?**
