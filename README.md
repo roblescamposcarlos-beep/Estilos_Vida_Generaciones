@@ -14,7 +14,7 @@
 | Lugar | Mazatlán, Sinaloa |
 
 **Página publicada:** https://roblescamposcarlos-beep.github.io/Estilos_Vida_Generaciones/
-**Código de la página:** [`index.html`](index.html) (en la raíz para que GitHub Pages la publique) · **Escenario de Make:** [`codigo/blueprint.json`](codigo/blueprint.json)
+**Código:** [`codigo/index.html`](codigo/index.html) (la misma página; una copia está en la raíz para que GitHub Pages la publique) · **Escenario de Make:** [`codigo/blueprint.json`](codigo/blueprint.json) · **Resultados (PDF):** [`resultados/Resultados.pdf`](resultados/Resultados.pdf)
 
 ## 1. Objetivo
 Distinguir los estilos de vida y de consumo de tres generaciones de mi entorno, construir sin programar una página web conectada a Make e IA para compararlas y formular conclusiones propias sobre su sustentabilidad.
